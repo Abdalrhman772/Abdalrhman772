@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I’m currently working on front-end development using Angular, Bootstrap<br>🌱 I’m currently learning back-end development using Laravel<br>👯 I’m looking to collaborate on MEAN Stack development<br>⚡ Coding is fun !
+🔭I’m currently working on front-end development using Angular<br>🌱 I’m currently learning back-end development using NodeJs<br>👯 I’m looking to collaborate on MEAN Stack development<br>⚡ Coding is fun !
 
 
 ## 🌐 Socials:
